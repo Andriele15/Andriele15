@@ -7,11 +7,5 @@
 - 😄 Pronomes: ela/dela
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andriele15&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andriele15&layout=compact)
-
-![Snake animation](https://github.com/Andriele15/Andriele15/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriele15&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
