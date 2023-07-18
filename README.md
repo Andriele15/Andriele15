@@ -1,6 +1,7 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+page!👋;It's+nice+meeting+you!)](https://git.io/typing-svg)
 
+- 🚀 Atualmente trabalhando no meu futuro.
 - 📚 No momento estudando Javascript.
 - 🔭 Quero aprender mais sobre linguagens como: Java e Javascript.
 - 😄 Pronomes: ela/dela
